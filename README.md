@@ -1,6 +1,4 @@
-# Oral Imaging for Malocclusion Issues
-Assessments: OMNI Dataset, Deep Learning
-Baselines and Benchmarking
+# Oral Imaging for Malocclusion Issues Assessments: OMNI Dataset, Deep Learning Baselines and Benchmarking
 ## Introduction
 This is the official code repo of *Oral Imaging for Malocclusion Issues Identification: Dataset, Deep Learning Models and Benchmark*.
 
