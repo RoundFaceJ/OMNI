@@ -8,7 +8,7 @@ All benchmarked models are evaluated on: the OMNI Dataset.
 ![alt text](baseline_framework.png)
 
 ## Dataset
-The datasets we used for benchmark are [OMNI Dataset](https://pan.baidu.com/s/12MT8fBAPMWXpnBGDOsYGhw?pwd=OMNI).
+The datasets we used for benchmark are OMNI Dataset.
 
 * OMNI includes 4166 RGB images of the oral cavity captured by a standard RGB camera, which are recorded from multiple views, including frontal occlusal, left occlusal, right occlusal, maxillary craniofacial, and mandibular craniofacial. All images are labeled with multiple malocclusion issues by professional dentists.
 * OMNI dataset consists of 4166 RGB dental images collected from a total of 384 Chinese participants, including 153 males and 231 females. The age distribution of these participants ranged from 3-48 years old, with a mean age of 10.4 years old and a standard deviation of 5.63.
