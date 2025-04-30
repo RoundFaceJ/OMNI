@@ -1,4 +1,4 @@
-dataset_path: '../data/OMNI_COCO'
+dataset_path: '../../data/OMNI_COCO'
 num_classes: 11 # 1 class (your object) + background
 neighbor_num: 5
 gpu_ids: '2'
