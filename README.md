@@ -31,10 +31,11 @@ Please refer to the README.md files within each model for detailed information.
 
 ## Citation
 Please kindly cite our papers if you used or were inspired by our idea:
-```bibtex
+```
 @article{xue2025oral,
   title={Oral Imaging for Malocclusion Issues Assessments: OMNI Dataset, Deep Learning Baselines and Benchmarking},
   author={Xue, Pujun and Ge, Junyi and Jiang, Xiaotong and Song, Siyang and Wu, Zijian and Huo, Yupeng and Xie, Weicheng and Shen, Linlin and Zhou, Xiaoqin and Liu, Xiaofeng and others},
   journal={arXiv preprint arXiv:2505.15637},
   year={2025}
 }
+```
