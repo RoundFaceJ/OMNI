@@ -5,7 +5,7 @@ In MMDetection, we provide some of our files with the following structure:
 ```
 mmdetection
     ├── checkpoints                Store pretrained model weight files.
-    ├── work_dirs3                 Stored the weight files of each of our trained models.([Download]())
+    ├── work_dirs3                 Stored the weight files of each of our trained models.
     ├── data                       Folder for storing datasets.
     ├── mmdet
         ├── datasets               Dataset processing files.
