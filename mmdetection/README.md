@@ -17,7 +17,7 @@ mmdetection
 ```
 The pretrained models in the 'checkpoints' folder are publicly available([Download](https://drive.google.com/file/d/19-5m9eHTPa-0NDEUF79EFBXatmxacvfT/view?usp=drive_link)). Our pretrained models are sourced from MMDetection as well as other open-source projects.
 
-The trained model files in the 'work_dirs3' folder are available for download([Download](https://drive.google.com/file/d/1LsXoj-E94LsOZHAZ4Z5iOnfKZ4WXoamR/view?usp=drive_link)).
+The trained model files in the 'work_dirs3' folder are available for download([Download](https://drive.google.com/file/d/1cI0cT023GRWf5lFalph6v9S50AVXPAU4/view?usp=sharing)).
 
 ## Training and Testing
 For detailed installation, configuration, as well as training and testing steps of mmdetection, please refer to the [official mmdetection documentation](https://github.com/open-mmlab/mmdetection/blob/v3.0.0/README.md).
